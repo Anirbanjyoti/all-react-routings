@@ -1,0 +1,9 @@
+.post_id {
+    display: grid;
+    grid-template-columns: repeat(10, 100px);
+    width: 1000px;
+    margin: auto;
+}
+.post_id a {
+    margin-right: 10px;
+}
